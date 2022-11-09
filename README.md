@@ -1,4 +1,7 @@
-<a name="DarkblockUnity"></a>
+
+<a name="darkblock-unity"></a>
+
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -15,11 +18,11 @@
     <a href="https://docs.darkblock.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/darkblockio/DarkblockUnity">View Demo</a> -->
+    <!-- <a href="https://github.com/darkblockio/darkblock-unity">View Demo</a> -->
     ·
-    <a href="https://github.com/darkblockio/DarkblockUnity/issues">Report Bug</a>
+    <a href="https://github.com/darkblockio/darkblock-unity/issues">Report Bug</a>
     ·
-    <a href="https://github.com/darkblockio/DarkblockUnity/issues">Request Feature</a>
+    <a href="https://github.com/darkblockio/darkblock-unity/issues">Request Feature</a>
   </p>
 </div>
 
@@ -65,7 +68,7 @@ Unity 2019.2 or higher </br>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/darkblockio/DarkblockUnity.git
+   git clone https://github.com/darkblockio/darkblock-unity.git
 
 2. Import the Asset Bundle Browser and Newtonsoft Json packages
 
@@ -74,7 +77,7 @@ Unity 2019.2 or higher </br>
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Add the DarkblockUnity script to an empty game object in your scene
+1. Add the darkblock-unity script to an empty game object in your scene
 
 2. Add the contract address and token-Id of the NFT to the script
 
@@ -93,7 +96,7 @@ Unity 2019.2 or higher </br>
 - [ ] Create a Darkblock unity package for easy integration and demo scene
 
 
-See the [open issues](https://github.com/darkblockio/DarkblockUnity/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/darkblockio/darkblock-unity/issues) for a full list of proposed features (and known issues).
 
 
 
@@ -126,3 +129,12 @@ Distributed under the DWTFYW License.
 Darkblockio - [@darkblockio](https://twitter.com/darkblockio) - info@darkblock.io
 
 Project Link: [https://github.com/darkblockio/darkblock-unity)
+
+
+
+
+
+
+
+
+
