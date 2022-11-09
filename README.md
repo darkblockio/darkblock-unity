@@ -1,7 +1,4 @@
-
 <a name="DarkblockUnity"></a>
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -18,11 +15,11 @@
     <a href="https://docs.darkblock.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/raggi-eth/DarkblockUnity">View Demo</a> -->
+    <!-- <a href="https://github.com/darkblockio/DarkblockUnity">View Demo</a> -->
     ·
-    <a href="https://github.com/raggi-eth/DarkblockUnity/issues">Report Bug</a>
+    <a href="https://github.com/darkblockio/DarkblockUnity/issues">Report Bug</a>
     ·
-    <a href="https://github.com/raggi-eth/DarkblockUnity/issues">Request Feature</a>
+    <a href="https://github.com/darkblockio/DarkblockUnity/issues">Request Feature</a>
   </p>
 </div>
 
@@ -68,7 +65,7 @@ Unity 2019.2 or higher </br>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/raggi-eth/DarkblockUnity.git
+   git clone https://github.com/darkblockio/DarkblockUnity.git
 
 2. Import the Asset Bundle Browser and Newtonsoft Json packages
 
@@ -96,7 +93,7 @@ Unity 2019.2 or higher </br>
 - [ ] Create a Darkblock unity package for easy integration and demo scene
 
 
-See the [open issues](https://github.com/raggi-eth/DarkblockUnity/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/darkblockio/DarkblockUnity/issues) for a full list of proposed features (and known issues).
 
 
 
@@ -128,13 +125,4 @@ Distributed under the DWTFYW License.
 
 Darkblockio - [@darkblockio](https://twitter.com/darkblockio) - info@darkblock.io
 
-Project Link: [https://github.com/raggi-eth/DarkblockUnity](https://github.com/raggi-eth/DarkblockUnity)
-
-
-
-
-
-
-
-
-
+Project Link: [https://github.com/darkblockio/darkblock-unity)
